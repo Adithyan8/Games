@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+    color:black;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+table{
+    margin:auto;
+    background:black;
+}
+
+button{
+    width:90px;
+    height:90px;
+    border-radius: 50%;
+    background:rgb(255, 255, 255);
+    border:5px solid black;
+   
+}
